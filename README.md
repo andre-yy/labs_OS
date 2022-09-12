@@ -1,2 +1,2 @@
 # labs_OS
-This repository is using for making labs
+Hi! This repository is using for making labs.
